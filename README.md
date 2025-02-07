@@ -79,7 +79,7 @@ Here are some of my best projects that showcase my skills:
 
 ## 🚀 My LeetCode Performance  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh599?theme=light&font=Abel)](https://leetcode.com/u/harsh599/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh599?theme=light&font=SourceCodePro)](https://leetcode.com/u/harsh599/)
 
 ## 📬 Let's Connect!  
 I’m always open to networking and new opportunities. Feel free to reach out!  
