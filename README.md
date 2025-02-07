@@ -48,15 +48,15 @@
 ## 🚀 Featured Projects  
 Here are some of my best projects that showcase my skills:  
 
-### 🔹 [Dev Tinder](https://github.com/harsh599/dev-tinder)  
+### 🔹 [Dev Tinder](https://www.mydevtinder.com/)  
 **Tech Stack:** React, Redux, Tailwind CSS, Express.js, MongoDB, JWT  
 🔹 **Description:** A developer networking platform where devs can connect & collaborate.  
 
-### 🔹 [Portfolio Website](https://github.com/harsh599/portfolio-react)  
-**Tech Stack:** Next.js, Tailwind CSS, Framer Motion  
-🔹 **Description:** My personal portfolio website to showcase my work & experience.  
+### 🔹 [NetflixGPT](https://netflixgpt-b34aa.web.app/)  
+**Tech Stack:** React, Redux, Tailwind CSS, Firebase, OpenAI API  
+🔹 **Description:** An AI-powered movie recommendation platform that suggests movies based on user preferences using GPT-based intelligence.  
 
-### 🔹 [Playwright Testing Demos](https://github.com/harsh599/playwright-tests)  
+### 🔹 [Playwright Testing Demos]  
 **Tech Stack:** Playwright, TypeScript, Jest  
 🔹 **Description:** A collection of automated test cases written using Playwright.  
 
@@ -85,7 +85,7 @@ I’m always open to networking and new opportunities. Feel free to reach out!
 
 📧 **Email:** [harshsrivastavajobs599@gmail.com](mailto:harshsrivastavajobs599@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/harsh599](https://www.linkedin.com/in/harsh599/)  
-🌎 **Portfolio:** [harsh599.github.io](https://harsh599.github.io)  
+🌎 **Portfolio:** [harsh599.github.io](https://harsh599.github.io/GradPortfolio/)  
 
 ---
 
