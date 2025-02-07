@@ -8,7 +8,7 @@
   <a href="mailto:harshsrivastavajobs599@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://harsh599.github.io">
+  <a href="https://harsh599.github.io/GradPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
@@ -16,7 +16,8 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 **Currently Building:** [Dev Tinder](https://github.com/harsh599/dev-tinder)  
+- 🔭 **Currently Building:** [Dev Tinder](https://www.mydevtinder.com/)
+)  
 - 🌱 **Currently Learning:** Advanced System Design, DSA, Performance Optimization  
 - 🎯 **Goal:** Secure a Senior Software Engineer Role in FAANG  
 - ⚡ **Hobbies:** Coding, Gym, Exploring New Technologies  
@@ -56,7 +57,7 @@ Here are some of my best projects that showcase my skills:
 **Tech Stack:** React, Redux, Tailwind CSS, Firebase, OpenAI API  
 🔹 **Description:** An AI-powered movie recommendation platform that suggests movies based on user preferences using GPT-based intelligence.  
 
-### 🔹 [Playwright Testing Demos]  
+### 🔹 [Playwright Testing Demos](https://playwright.dev/docs/writing-tests)  
 **Tech Stack:** Playwright, TypeScript, Jest  
 🔹 **Description:** A collection of automated test cases written using Playwright.  
 
@@ -78,7 +79,7 @@ Here are some of my best projects that showcase my skills:
 
 ## 🚀 My LeetCode Performance  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh599?theme=unicorn&font=Abel)](https://leetcode.com/u/harsh599/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/harsh599?theme=light&font=Abel)](https://leetcode.com/u/harsh599/)
 
 ## 📬 Let's Connect!  
 I’m always open to networking and new opportunities. Feel free to reach out!  
